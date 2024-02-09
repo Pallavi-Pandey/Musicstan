@@ -1,5 +1,5 @@
 # Music_Page
-https://pallavi-pandey.github.io/Music_Page/
+https://pallavi-pandey.github.io/Musicstan/
 ### Technologies Used:
 - HTML5
 - Css
