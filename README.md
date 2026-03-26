@@ -1,4 +1,4 @@
-# Music_Page
+# Musicstan App
 https://pallavi-pandey.github.io/Musicstan/
 ### Technologies Used:
 - HTML5
